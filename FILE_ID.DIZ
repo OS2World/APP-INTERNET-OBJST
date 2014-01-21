@@ -1,0 +1,8 @@
+(v1.10) Objst: Start WPS program objects
+from the command line.  Primarily
+useful for starting Dos and Windows
+viewers from IBM's Web Explorer.  Can
+also be used to pass programs arguments
+other than filename from Web Explorer.
+Archive contains instructions for setup
+with Web Explorer.

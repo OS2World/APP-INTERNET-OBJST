@@ -1,0 +1,12 @@
+       OS/2 Upload Information Template for ftp-os2.nmsu.edu
+
+Archive Name: objst11.zip
+Program Description: Allows use of Dos and Win viewers with Web Explorer
+Operating System Versions: OS/2 Warp (should work on 2.1, 2.11)
+Program Source: I'm author
+Replaces: /os2/network/tcpip/objst.zip
+
+Your name: Brian Landy
+Your email address: blandy@ucsd.edu
+
+Proposed directory for placement: /os2/network/tcpip

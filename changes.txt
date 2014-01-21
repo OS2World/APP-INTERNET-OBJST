@@ -1,0 +1,17 @@
+v1.10
+-----
+- Fixed problem: space was added to end of parameter list inserted into the
+  program object.
+
+- Added executable to create a program object with a known Object ID.
+
+- The REXX script which makes a copy of the Web Explorer temporary file was
+  modified to keep the original file's extension.  (It expects 8.3, which
+  Web Explorer creates).
+
+- Instructions on adding Web Explorer viewers and additional data types.  In
+  particular, instructions on installing with Real Audio.
+
+v1.00
+-----
+first release
